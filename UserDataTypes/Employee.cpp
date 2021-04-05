@@ -30,11 +30,11 @@ void Employee::Read() {
 
 void Employee::Write() {
 	cout << "Employee Name: " << name << endl;
-	cout << "Age: " << name << endl;
-	cout << "ZipCode: " << name << endl;
-	cout << "Wage: $" << name << endl;
-	cout << "Days Worked: " << name << endl;
-	cout << "Gross Income: " << name << endl;
-	cout << "Net Income: " << name << endl << endl;
+	cout << "Age: " << age << endl;
+	cout << "ZipCode: " << zipcode << endl;
+	cout << "Wage: $" << wage << endl;
+	cout << "Days Worked: " << daysWorked << endl;
+	cout << "Gross Income: " << grossIncome << endl;
+	cout << "Net Income: " << netIncome << endl << endl;
 
 }

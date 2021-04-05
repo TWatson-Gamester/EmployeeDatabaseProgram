@@ -15,6 +15,7 @@ int main()
 
 	for (int i = 0; i < numEmployees; i++) {
 		employees[i].Read();
+		cout << endl;
 	}
 
 	for (int i = 0; i < numEmployees; i++) {
